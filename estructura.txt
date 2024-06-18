@@ -1,0 +1,9 @@
+FitTrackJournal/
+|-- README.md
+|-- main.py              # Archivo principal para ejecutar la aplicación
+|-- database.py         # Manejo de la base de datos
+|-- gui.py              # Interfaz gráfica de usuario
+|-- viz.py              # Visualización de datos
+|-- requirements.txt    # Dependencias del proyecto
+|-- venv/               # Entorno virtual
+|-- .git/               # Carpeta del repositorio Git
